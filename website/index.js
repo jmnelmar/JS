@@ -17,10 +17,10 @@
     2. assigment    x = 100
 */
 
-let fullName = "Nelson Jimenez";
-let age = 25;
-let student = false;
+//let fullName = "Nelson Jimenez";
+//let age = 25;
+//let student = false;
 
-document.getElementById("p1").textContent = `Your name is ${fullName}`;
-document.getElementById("p2").textContent = `Your age is ${age}`;
-document.getElementById("p3").textContent = `You are a student ${student}`;
+//document.getElementById("p1").textContent = `Your name is ${fullName}`;
+//document.getElementById("p2").textContent = `Your age is ${age}`;
+//document.getElementById("p3").textContent = `You are a student ${student}`;
