@@ -24,3 +24,19 @@
 //document.getElementById("p1").textContent = `Your name is ${fullName}`;
 //document.getElementById("p2").textContent = `Your age is ${age}`;
 //document.getElementById("p3").textContent = `You are a student ${student}`;
+
+/* 
+    Aritmetic operatos
+
+    + add
+    - substract
+    * multiply
+    ** exponent 
+    / division
+    % module 
+    += incremental
+    -= decremental
+    *= incremental by
+    **= incremetal exponential
+    %= imcremental by module
+ */
