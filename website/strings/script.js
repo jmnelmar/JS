@@ -19,4 +19,9 @@ console.log(userName.replace("-",""));
 console.log(userName.padStart(15,"0"));
 console.log(userName.padEnd(15,"0"))
 
-eval(`String.replace(${userName})`)
+function getIframe(){
+    const iframe = document.getElementById("myIframe");
+    htmlcode = iframe.contentWindow.document.getElementById("html-code")
+
+    alert(htmlcode)
+}

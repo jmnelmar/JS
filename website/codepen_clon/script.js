@@ -9,3 +9,8 @@ function run(){
 
 
 }
+
+function getStringMethods(js_code, html_code){
+    
+
+}
