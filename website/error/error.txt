@@ -1,0 +1,24 @@
+Error = an object that is created to present aproblem that occurs
+occur often with user input or establishing a connection
+
+it can be faced in
+    NETWORK ERROR 
+    PROMISE REJECTION
+    SECURITY ERRROR
+
+    try {} Enclose code that might potentially cause an error
+    catch{} catch and handle any thrown errors from try{}
+    finaly{} (optional) always executes. used mostly for clean up
+             ex. close files, close connnections, release resources.
+
+ex.
+
+try{
+    console.log(x);
+}catch(error){
+    console.log(error);
+}finally{
+    console.log("this always executes");
+}
+
+console.log("the end");
